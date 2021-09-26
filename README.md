@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, this a little of my legacy 👋
+![Spide](https://c.tenor.com/AgcHnOwgmvsAAAAC/spiderman-dancing.gif)
 
+### Groups 
+- [Club Software EPN](https://github.com/Club-de-Software-EPN)
 <!--
 **Fabricio2502/Fabricio2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
