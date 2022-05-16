@@ -1,8 +1,16 @@
 ### Hi there, this a little of my legacy 👋
 ![Spide](https://c.tenor.com/AgcHnOwgmvsAAAAC/spiderman-dancing.gif)
 
+###
+*Computer Science Student at [Escuela Politécnica Nacional](https://www.epn.edu.ec/)*
+###
+![SrBebo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrBebo&show_icons=true&theme=github_dark)
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrBebo&langs_count=8&theme=github_dark)](https://github.com/SrBebo/github-readme-stats)
 ### Groups 
 - [Club Software EPN](https://github.com/Club-de-Software-EPN)
+
+
 <!--
 **Fabricio2502/Fabricio2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
