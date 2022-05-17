@@ -4,9 +4,9 @@
 ###
 *Computer Science Student at [Escuela Politécnica Nacional](https://www.epn.edu.ec/)*
 ###
-![SrBebo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrBebo&show_icons=true&theme=github_dark)
+![SrBebo's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SrBebo&show_icons=true&theme=github_dark)
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrBebo&langs_count=8&theme=github_dark)](https://github.com/SrBebo/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SrBebo&langs_count=8&theme=github_dark)](https://github.com/SrBebo/github-readme-stats)
 ### Groups 
 - [Club Software EPN](https://github.com/Club-de-Software-EPN)
 
