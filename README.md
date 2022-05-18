@@ -4,7 +4,7 @@
 ###
 *Computer Science Student at [Escuela Politécnica Nacional](https://www.epn.edu.ec/)*
 ###
-![Github Stats SrBebo](https://github-readme-stats.vercel.app/api?username=SrBebo&count_private=true,issues&show_icons=true&show_owner=true&theme=github-dark)
+![Github Stats SrBebo](https://github-readme-stats.vercel.app/api?username=SrBebo&count_private=true,issues&show_icons=true&show_owner=true&theme=github_dark)
 ###
 ![SrBebo's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SrBebo&show_icons=true&theme=github)
 ###
