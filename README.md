@@ -6,9 +6,7 @@
 ###
 ![Github Stats SrBebo](https://github-readme-stats.vercel.app/api?username=SrBebo&count_private=true,issues&show_icons=true&show_owner=true&theme=github_dark)
 ###
-![SrBebo's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SrBebo&show_icons=true&theme=github)
-###
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SrBebo&langs_count=8&theme=github)](https://github.com/SrBebo/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SrBebo&langs_count=8&theme=github_dark)](https://github.com/SrBebo/github-readme-stats)
 ### Groups 
 - [Club Software EPN](https://github.com/Club-de-Software-EPN)
 
