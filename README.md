@@ -4,8 +4,6 @@
 ###
 *Computer Science Student at [Escuela Politécnica Nacional](https://www.epn.edu.ec/)*
 ###
-![SrBebo's GitHub stats](https://sr-bebo.vercel.app/api?username=SrBebo&show_icons=true&theme=github)
-###
 ![SrBebo's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SrBebo&show_icons=true&theme=github)
 ###
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SrBebo&langs_count=8&theme=github)](https://github.com/SrBebo/github-readme-stats)
